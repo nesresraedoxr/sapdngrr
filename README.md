@@ -3,3 +3,4 @@ Solana token scanner that detects new tokens and filters rugs using RugCheck and
 Commit 1 line
 Commit 2 line
 Commit 3 line
+Commit 4 line
